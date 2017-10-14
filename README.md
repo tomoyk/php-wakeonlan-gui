@@ -1,17 +1,14 @@
 # php-wakeonlan-gui
 
-## Support Platform
+## Supported Platform
 
-This app works on these environment.
+This app was supported on this environment.
 
-- Linux/Unix
-- Etherwake command
-- PHP 5.4-
-- Apache 2.2-
+- PHP 5.x or 7.x **[require]**
+- WebServer(eg. nginx, apache, lightpd) **[require]**
+- `etherwake` command
+
+## SnapShot
 
 ![screen](https://raw.githubusercontent.com/tomoyk/php-wakeonlan-gui/master/netboot.png)
-
-## Abstract
-
-Wake up machine on web-ui.
 
