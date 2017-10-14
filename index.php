@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-	<meta charset="UTF-8">
-	<title>WakeOnLan on WEB</title>
-	<meta name="viewport" content="width=device-width">
+  <meta charset="UTF-8">
+  <title>WakeOnLan on WEB</title>
+  <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" type="text/css" href="normalize.css">
   <style>
     body {
